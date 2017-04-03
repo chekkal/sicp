@@ -1,3 +1,4 @@
+;; Gambit v4.7.0
 ;; Stream from first principles from SICP (Lecture 6: Streams)
 
 ;; utils
